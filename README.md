@@ -67,16 +67,16 @@ Systematic evaluation of protein language models (PLMs) and DNA foundation model
 ## Repository Structure
 
 ```
-├── Copy_of_Protein_LLM_Benchmarking_New.ipynb  # Full pipeline (run on Colab with GPU)
+├── PLM_Benchmarking.ipynb  # Full pipeline (run on Colab with GPU)
 ├── Results_Showcase.ipynb                       # Results display notebook (no GPU needed)
 ├── figures/                                     # Generated plots
 ├── results/                                     # CSV tables with metrics
-└── autophagy_proteins (1).xlsx                  # Source protein list
+└── autophagy_proteins.xlsx                  # Source protein list
 ```
 
 ## How to Reproduce
 
-1. Open `Copy_of_Protein_LLM_Benchmarking_New.ipynb` in Google Colab (GPU runtime required)
+1. Open `PLM_Benchmarking.ipynb` in Google Colab (GPU runtime required)
 2. Mount Google Drive and ensure source data is at `protein_benchmark_v2/`
 3. Run all cells — results save to `protein_benchmark_v2_RESULTS/`
 
