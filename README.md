@@ -74,12 +74,6 @@ Systematic evaluation of protein language models (PLMs) and DNA foundation model
 └── autophagy_proteins.xlsx                  # Source protein list
 ```
 
-## How to Reproduce
-
-1. Open `PLM_Benchmarking.ipynb` in Google Colab (GPU runtime required)
-2. Mount Google Drive and ensure source data is at `protein_benchmark_v2/`
-3. Run all cells — results save to `protein_benchmark_v2_RESULTS/`
-
 ## Key Findings
 
 - Sequence-based PLMs (ESM-1b, ESM-3) achieve the strongest functional classification
