@@ -155,7 +155,6 @@ ESMFold2 predicted structures were compared against RCSB experimental ground tru
 ├── PLM_Benchmarking_ESMFold2.ipynb  # Benchmark 2: ESMFold2 evaluation + structure prediction
 ├── Results_Showcase.ipynb           # Results display notebook (no GPU needed)
 ├── benchmark_proteins_85.csv        # The 85-protein dataset (accessions & groups)
-├── autophagy_proteins.csv           # Source protein list
 ├── figures/                         # Generated plots
 └── results/                         # CSV tables with metrics
 ```
